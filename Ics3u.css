@@ -1,0 +1,131 @@
+div.a{
+	font-size: 300%;
+	text-align: center;
+	border:4px solid black;
+	border-style: dotted;
+	margin: 25px 50px 75px 100px;
+}
+body{
+	background-image: url(https://d.yysucai.com/uploads/allimg/141108/1-14110Q94555I7.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+p.a{
+	font-family: papyrus;
+	text-align: left;
+	color: #6a5acd;
+	font-size: 250%;
+	border-left: 6px solid black;
+	background-color: lightgrey;
+}
+p.b{
+	border: 1px solid black;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 80px;
+	background-color: lightblue;
+	font-size: 125%;
+	font-family: papyrus;
+	column-count: 3;
+	column-gap: 30px;
+	column-rule-style: solid;
+	column-rule-width: 4px;
+	column-rule-color: lightblue;
+	font-size: 125%;
+	font-family: papyrus;
+}
+ul.a{
+	font-family: papyrus;
+	font-size: 200%;
+	list-style-type: upper-roman;
+}
+p.d{
+	font-family: papyrus;
+	text-align: left;
+	color: #6a5acd;
+	font-size: 250%;
+	border-left: 6px solid black;
+	background-color: lightgrey;
+}
+p.e{
+	column-count: 3;
+	column-gap: 30px;
+	column-rule-style: solid;
+	column-rule-width: 4px;
+	column-rule-color: lightblue;
+	font-size: 125%;
+	font-family: papyrus;
+}
+ul.b{
+	font-family: papyrus;
+	font-size: 200%;
+	list-style-type:disc;
+}
+p.f{
+	font-family: papyrus;
+	text-align: left;
+	color: #6a5acd;
+	font-size: 250%;
+	border-left: 6px solid black;
+	background-color: lightgrey;
+}
+p.g{
+	column-count: 3;
+	column-gap: 30px;
+	column-rule-style: solid;
+	column-rule-width: 4px;
+	column-rule-color: lightblue;
+	font-size: 125%;
+	font-family: papyrus;
+}
+table.a{
+	 margin-left: auto; 
+	 margin-right: auto;
+	 font-family: papyrus;
+}
+table, th, td{
+	border: 2px solid black;
+	font-family: papyrus;
+}
+p.h{
+	font-family: papyrus;
+	text-align: left;
+	color: #6a5acd;
+	font-size: 250%;
+	border-left: 6px solid black;
+	background-color: lightgrey;
+}
+p.i{
+	column-count: 3;
+	column-gap: 30px;
+	column-rule-style: solid;
+	column-rule-width: 4px;
+	column-rule-color: lightblue;
+	font-size: 125%;
+	font-family: papyrus;
+}
+table.b{
+	margin-left: auto; 
+	margin-right: auto;
+	font-family: papyrus;
+	font-size: 125%;
+}
+table, th, td{
+	border: 2px solid black;
+	font-family: papyrus;
+	font-size: 125%;
+}
+p.j{
+	column-count: 3;
+	column-gap: 30px;
+	column-rule-style: solid;
+	column-rule-width: 4px;
+	column-rule-color: lightblue;
+	font-size: 125%;
+	font-family: papyrus;
+}
+iframe{
+	width: 700px;
+	height: 500px;
+}
